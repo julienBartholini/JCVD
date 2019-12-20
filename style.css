@@ -1,0 +1,37 @@
+/* ------------------------------ STYLES GENERAUX */
+* {
+    box-sizing: border-box;
+}
+
+h2, table {
+    margin-top: 30px;
+}
+
+p {
+    text-align: justify;
+    line-height: 35px;
+}
+
+/* ------------------------------ STYLES SECTION FIFA */
+[alt="logo de la fifa"] {
+    margin: 0 0 100px 100px;
+    width: 70px;
+}
+
+/* ------------------------------ STYLE TABLEAU */
+table {
+    margin-bottom: 30px;
+
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 5px;
+
+    border: 1px solid black;
+}
+
+thead {
+    font-weight: bold;
+    text-align: center;
+}
